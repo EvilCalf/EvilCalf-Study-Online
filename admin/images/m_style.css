@@ -1,0 +1,315 @@
+BODY {
+    font-family: "宋体", "Arial","Times New Roman"; FONT-SIZE: 9pt
+}
+P {
+	FONT-FAMILY: "宋体", "Arial","Times New Roman"; FONT-SIZE: 9pt
+}
+TD {
+	FONT-FAMILY: "宋体", "Arial","Times New Roman"; FONT-SIZE: 9pt
+}
+LI {
+	FONT-FAMILY: "宋体", "Arial","Times New Roman"; FONT-SIZE: 9pt
+}
+INPUT {
+	FONT-FAMILY: "宋体", "Arial","Times New Roman"; FONT-SIZE: 9pt
+}
+from {
+	FONT-FAMILY: "宋体", "Arial","Times New Roman"; FONT-SIZE: 9pt
+}
+A:link {
+	COLOR: #000000; FONT-SIZE: 9pt; TEXT-DECORATION: none
+}
+A:visited {
+	COLOR: #000000; FONT-SIZE: 9pt; TEXT-DECORATION: none
+}
+A:hover {
+	COLOR: #999999;
+	text-decoration: none;
+
+}.1 {
+	font-size: 9pt;
+	line-height: 200%;
+	color: #000000;
+	text-decoration: none;
+}
+.noinputboxbfb {
+	width: 100%;
+	border: 0px 0;
+	padding-left:5px
+}
+.inputboxcolor {
+	background-color: #FFFF99;
+	width: 100%;
+	height: 100%;
+	padding-top:5px;
+	padding-left:5px
+}
+.2 {
+	font-size: 9pt;
+	line-height: 150%;
+	color: #000000;
+	text-decoration: none;
+}
+.input_online
+{
+    BORDER-BOTTOM-COLOR: #000066;
+    BORDER-BOTTOM-WIDTH: 1px;
+    BORDER-LEFT-COLOR: black;
+    BORDER-LEFT-WIDTH: 0px;
+    BORDER-RIGHT-COLOR: black;
+    BORDER-RIGHT-WIDTH: 0px;
+    BORDER-TOP-COLOR: black;
+    BORDER-TOP-WIDTH: 0px;
+    FONT-SIZE: 12px;
+    HEIGHT: 20px;
+    TEXT-DECORATION: none;
+
+}
+.input_onlineFrame
+{   background-color: transparent;
+    BORDER-BOTTOM-COLOR: #000066;
+    BORDER-BOTTOM-WIDTH: 1px;
+    BORDER-LEFT-COLOR: black;
+    BORDER-LEFT-WIDTH: 0px;
+    BORDER-RIGHT-COLOR: black;
+    BORDER-RIGHT-WIDTH: 0px;
+    BORDER-TOP-COLOR: black;
+    BORDER-TOP-WIDTH: 0px;
+    FONT-SIZE: 12px;
+    HEIGHT: 20px;
+    TEXT-DECORATION: none;
+; color: #E17100
+
+}
+.input_onlineray
+{
+    BACKGROUND-COLOR: #d4d0c8;
+    BORDER-BOTTOM-COLOR: #000066;
+    BORDER-BOTTOM-WIDTH: 1px;
+    BORDER-LEFT-COLOR: black;
+    BORDER-LEFT-WIDTH: 0px;
+    BORDER-RIGHT-COLOR: black;
+    BORDER-RIGHT-WIDTH: 0px;
+    BORDER-TOP-COLOR: black;
+    BORDER-TOP-WIDTH: 0px;
+    COLOR: #ff0000;
+    FONT-SIZE: 16px;
+    FONT-STYLE: italic;
+    HEIGHT: 20px;
+    TEXT-DECORATION: none;
+    WIDTH: 80px
+}
+.text12
+{
+}
+.tbbordercolor
+{
+    BORDER-BOTTOM: #000000 1px;
+    BORDER-LEFT: #000000 1px;
+    BORDER-RIGHT: #000000 1px;
+    BORDER-TOP: #000000 1px
+}
+.allinputbox
+{
+    BACKGROUND: #ffffff;
+    BORDER-BOTTOM: #506646 1px solid;
+    BORDER-LEFT: #506646 1px solid;
+    BORDER-RIGHT: #506646 1px solid;
+    BORDER-TOP: #506646 1px solid;
+    FONT-SIZE: 10pt;
+    FONT-WEIGHT: normal
+}
+.noninputbox
+{
+	BACKGROUND: default;
+	BORDER-BOTTOM: #506646 0px solid;
+	BORDER-LEFT: #506646 0px solid;
+	BORDER-RIGHT: #506646 0px solid;
+	BORDER-TOP: #506646 0px solid;
+	FONT-SIZE: 10pt;
+	color: #000000;
+	FONT-WEIGHT: normal;
+	text-align: right;
+
+    
+}
+
+.noninputboxcolor
+{    
+    
+    BACKGROUND: default;
+    BORDER-BOTTOM: #506646 0px solid;
+    BORDER-LEFT: #506646 0px solid;
+    BORDER-RIGHT: #506646 0px solid;
+    BORDER-TOP: #506646 0px solid;
+    FONT-SIZE: 10pt;
+    FONT-WEIGHT: normal;
+    COLOR: #FF0000
+}
+
+.button 
+{       Height:20px;
+    BACKGROUND-COLOR: #CCCC99;
+    COLOR: #000080;
+    LINE-HEIGHT: 9pt;
+    PADDING-LEFT: 0px;
+    PADDING-RIGHT: 0px;
+    PADDING-TOP: 2px;
+    PADDING-BOTTOM: 2px;
+    CURSOR: hand;
+    border-width:1px;
+    border-style:solid;
+    FONT-FAMILY: "宋体";
+    FONT-SIZE: 9pt;
+}
+.buttonnoborder 
+{   Height:20px;
+  background-color: #D4D0C8;
+    COLOR: #000000;
+    LINE-HEIGHT: 9pt;
+    PADDING-LEFT: 0px;
+    PADDING-RIGHT: 0px;
+    PADDING-TOP: 2px;
+    PADDING-BOTTOM: 2px;
+    CURSOR: hand;
+    border-width:0px;
+    border-style:solid;
+    FONT-FAMILY: "宋体";
+    FONT-SIZE: 9pt;
+}
+.textnoborder
+{   Height:20px;
+  background-color: #ffffff;
+    COLOR: #000000;
+    LINE-HEIGHT: 9pt;
+    PADDING-LEFT: 0px;
+    PADDING-RIGHT: 0px;
+    PADDING-TOP: 2px;
+    PADDING-BOTTOM: 2px;
+    CURSOR: hand;
+    FONT-FAMILY: "宋体";
+    FONT-SIZE: 9pt;
+; border: 0px solid
+}
+TABLE.InputFrameMain{
+    MARGIN-TOP:5px;
+    margin-BOTTOM:5px;
+	background-color: #ececec;
+	border-style: solid;
+	border-width: 1px;
+	border-color:#999999;
+	border-collapse:collapse;
+}
+
+TABLE.FrameMain{
+    MARGIN-TOP:5px;
+    margin-BOTTOM:5px;
+	border-style: solid;
+	border-width: 1px;
+	border-color:#999999;
+	border-collapse:collapse;
+}
+TR.TrBar 
+{ 
+	 background-color: #D4D0C8; 
+	 font-size: 12px; 
+	 color: #000000
+}
+TR.TrBarlistover 
+{ 
+	 background-color: #003399; 
+	 font-size: 12px; 
+	 color: #ffffff
+}
+TR.TrBarlistout 
+{ 
+	 background-color: #ffffff; 
+	 font-size: 12px; 
+	 color: #000000
+}
+TR.TrTitleBorder
+{
+    FONT-FAMILY: 宋体;
+    FONT-SIZE: 9pt;
+    BACKGROUND: #8CAAE7;
+    BORDER-BOTTOM: #7C9CCF 1px solid;
+    BORDER-TOP: #7C9CCF 1px solid;
+    BORDER-Left: #7C9CCF 1px solid;
+    BORDER-Right: #7C9CCF 1px solid;
+    COLOR: #ffffff;
+    text-align:center;
+    vertical-align:center;
+    height:18px;
+}
+TR.Trbottom 
+{ 
+	 background-color: #D4d0c8; 
+	 font-size: 12px; 
+	 color: #000000
+}
+TR.Tr0099ff
+{ 
+	 background-color: #0099ff; 
+	 font-size: 12px; 
+	 color: #ffffff
+}
+TR.Listrow
+{
+    FONT-FAMILY: Arial;
+    FONT-SIZE: 9pt;
+    BACKGROUND: #ffffff;
+}
+
+TR.ListrowChange
+{
+    FONT-FAMILY: Arial;
+    FONT-SIZE: 9pt;
+    color:#ffffff;
+    BACKGROUND: 333366;
+}
+
+td.ListCellTitle
+{
+  background-color: #D4D0C8; 
+}
+td.defalutbgcolor
+{
+  background-color: #ffffff; 
+}
+table.bgTitle
+{
+	background-color: #D4D0C8;
+	font-size: 14px;
+
+}
+td.ListCellRow
+{
+	padding:0px 4px 0px 4px;
+; border: solid; border-width: 1px 1px 0px 0px; border-color: #FFFFFF #FFFFFF black #999999
+}
+.printheight {  height: 40px}.changeboxcolor {
+	color: #FFFFFF;
+	background-color: #0033FF;
+	height: 100px;
+	width: 100px;
+	border: 0px 0 0;
+}
+top.a:link {
+	font-size: 14pt;
+	font-style: normal;
+	color: #000066;
+	font-weight: bold;
+	font-family: "黑体";
+	line-height: normal;
+}
+.welcome {
+	font-size: 18pt;
+	font-style: normal;
+	line-height: normal;
+	color: #999999;
+	font-weight: bolder;
+	text-transform: capitalize;
+	text-decoration: blink;
+	font-variant: normal;
+
+}
